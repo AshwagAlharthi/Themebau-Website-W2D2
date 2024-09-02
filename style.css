@@ -45,3 +45,21 @@
     display: flex;
     align-items: center;
 }
+
+.h1-p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    font-size: 6.5rem;
+    color: white;
+    font-weight: lighter;
+}
+
+.pargh1 {
+    color: white;
+    width: 60%;
+    text-align: center;
+}
